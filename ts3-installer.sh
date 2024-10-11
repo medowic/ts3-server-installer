@@ -43,5 +43,5 @@ systemctl enable teamspeak >/dev/null 2>&1
 
 STOKEN="$(cat /home/teamspeak/ts3-server/logs/ts3server_* | grep -o 'token.*' | cut -f2- -d=)"
 echo "Done! Installation was successful."
-echo "Here you server admin token: ${STOKEN}"
+echo "Here's your server admin token: ${STOKEN}"
 exit 0
