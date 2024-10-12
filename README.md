@@ -50,6 +50,7 @@ If you using direct connection to your server, you must have **public** (white) 
 > ```
 > 9937 (UDP)
 > 30033 (TCP)
+> 10011 (TCP)
 > ```
 
 ### VPN-services (Hamachi, Radmin and etc)
