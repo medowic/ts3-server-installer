@@ -49,6 +49,7 @@ systemctl disable teamspeak
 > ```
 > 9937 (UDP)
 > 30033 (TCP)
+> 10011 (TCP)
 > ```
 
 ### VPN-сервисы (Hamachi, Radmin и прочие)
